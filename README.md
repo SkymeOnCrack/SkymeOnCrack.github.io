@@ -11,7 +11,7 @@ For easy setup go the the website at https://SkymeOnCrack.github.io/
 3. Set the name to `Ingot` and the URL to the code below or [here](https://github.com/FogNetwork/Ingot/blob/main/bookmarklet.js)
 
 ```js
-javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot/ingot.min.js';document.body.appendChild(a);}())
+javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/SkymeOnCrack/SkymeOnCrack.github.io@main/ingot1.min.js';document.body.appendChild(a);}())
 ```
 
 ## Screenshots
